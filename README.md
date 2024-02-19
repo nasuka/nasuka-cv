@@ -7,6 +7,7 @@ Nasuka Sumino
 
 * Twitter https://twitter.com/naohachi89
 * GitHub https://github.com/nasuka
+* LinkedIn https://www.linkedin.com/in/nasuka-s-65ab28b0/
 * Blog https://nasuka.info
 
 
