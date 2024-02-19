@@ -72,7 +72,7 @@
   * [プレス](https://www.bedore.jp/news/20190910_01/)
 *  74チーム中2位(Kaggle Days Championship Paris, 2022年)
 * 24チーム中10位(Kaggle Days Championship Final, 2022年)
-  * 本大会は世界中から参加者が集まる予選大会を勝ち抜いたチームのみが参加できる大会で、予選は述べ1000チーム・5800人以上が参加
+  * 本大会は世界中から参加者が集まる予選大会を勝ち抜いたチームのみが参加できる大会で、予選は延べ1000チーム・5800人以上が参加
 * 117チーム中3位(yukiCup 2023 Autumn × atmaCup, 2023年)
 * 661チーム中9位(#15 atmaCup, 2023年)
 * 838チーム中17位(Kaggle Gendered Pronoun Resolution, 2019年)
